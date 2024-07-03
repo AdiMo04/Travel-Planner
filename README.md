@@ -1,7 +1,7 @@
 # Travel Planner with Dijkstra Algorithm
 
 This project, implemented in C++, assists users in finding optimal routes between cities based on specified criteria.
-![Travel Planner Screenshot](screenshot.png)
+
 ## Description
 
 - Allows users to input source and destination cities.
@@ -29,3 +29,18 @@ This project, implemented in C++, assists users in finding optimal routes betwee
   - Run the executable and follow the prompts to input source, destination, and preferred route criteria (fastest or cheapest).
   - Open `output.html` in a web browser to view the generated route on the map.
 
+## Code Snippet - 1
+
+- **Input -> Fastest Path:**
+  - ![Travel Planner Screenshot](Code1.png)
+
+- **Output -> Fastest Path:**
+  - ![Travel Planner Screenshot](Output1.png)
+
+## Code Snippet - 2
+
+- **Input -> Cheapest Path:**
+  - ![Travel Planner Screenshot](Code2.png)
+
+- **Output -> Cheapest Path:**
+  - ![Travel Planner Screenshot](Output2.png)
